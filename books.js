@@ -11,7 +11,7 @@ const books = [
     },
     {
         "id": 3,
-        "name": "Sariq",
+        "name": "Sariq devni minib ",
         "autor": "Xudoyberd"
       }
   ]
